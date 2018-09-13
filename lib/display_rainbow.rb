@@ -1,4 +1,4 @@
 # Write your #display_rainbow method here\
-def isplay_rainbow
-  
+def display_rainbow(colors)
+  colors =  
 end 
